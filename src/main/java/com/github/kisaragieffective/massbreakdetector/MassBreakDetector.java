@@ -2,7 +2,7 @@ package com.github.kisaragieffective.massbreakdetector;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
-public final class Massbreakdetector extends JavaPlugin {
+public final class MassBreakDetector extends JavaPlugin {
 
     @Override
     public void onEnable() {

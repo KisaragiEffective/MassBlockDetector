@@ -1,5 +1,5 @@
 name: MassBreakDetector
 version: '${project.version}'
-main: com.github.kisaragieffective.massbreakdetector.Massbreakdetector
+main: com.github.kisaragieffective.massbreakdetector.MassBreakDetector
 authors: [ KisaragiEffective ]
 description: No more mass break. We had enough.
